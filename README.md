@@ -10,7 +10,7 @@ Process Management: Each process is uniquely identified and can hold multiple lo
 tickets.
 Lottery Scheduling: Processes are selected for execution based on a random drawing of 
 lottery tickets.
-Random Ticket Allocation: The scheduler randomly allocates between 1 to 10 lottery tickets 
+Random Ticket Allocation: The scheduler randomly allocates between 1 to 3 lottery tickets 
 to each process.
 Fair Chance of Selection: Every ticket has an equal chance of being selected, making the
 process selection fair and random.
